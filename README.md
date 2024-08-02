@@ -27,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 ```bash
-  cd CompraPrice
+  cd MiniProject
   npx create-react-app client
   npm install react-router-dom
   mkdir server
