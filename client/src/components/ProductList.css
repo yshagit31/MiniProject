@@ -1,0 +1,26 @@
+.container-lg { 
+    /* background-color: #008080; */
+    background-color: #075454;
+    border-radius: 5px;
+    border: 2px solid white;
+ }
+
+
+input {
+    border-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+}
+
+/* .input-group{
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+} */
+button{
+    background-color:  #3caa71;
+    color: white;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}

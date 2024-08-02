@@ -1,0 +1,19 @@
+span{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Navbar text color */
+.navbar-brand,
+.nav-link {
+    color: white; 
+}
+
+/* Navbar link hover color */
+.nav-link:hover {
+    color: #00695C; 
+}
+
+/* Navbar brand hover color */
+.navbar-brand:hover {
+    color: white; 
+}
